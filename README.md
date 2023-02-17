@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="img/microverse_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse Project</b></h3>
+  <h3><b>Setup and Mobile First project</b></h3>
 
 </div>
 
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Set up a 'Hello Microverse' project] <a name="about-project"></a>
+# 📖 [Setup and Mobile First project] <a name="about-project"></a>
 
 
 **[Setup and Mobile First project]** This project is about building the first page of a portfolio using the Figma template. It grants students the opportunity to begin to build their portfolio in preparation for the job markrt.
